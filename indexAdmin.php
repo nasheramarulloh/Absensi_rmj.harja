@@ -194,7 +194,7 @@ function getSummary($conn, $table) {
                                     <div class="card-body text-center fs-1">
                                         Tekan (+) untuk absen
                                         <div>
-                                            <a id="absenBtn" class="font text-white" href="absensi.php">
+                                            <a id="absenBtn" class="font text-white" href="absensi_admin.php">
                                                 <i class="bi bi-plus"></i>
                                             </a>
                                         </div>
